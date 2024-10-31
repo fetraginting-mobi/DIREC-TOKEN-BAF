@@ -1,0 +1,89 @@
+D:\Project_kantor\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Project_kantor\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Project_kantor\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Project_kantor\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project_kantor\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project_kantor\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Project_kantor\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Project_kantor\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Project_kantor\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Project_Kantor\IMS_V5\V5 project kantor IMS\_v5\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Project_Kantor\IMS_V5_SVN\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Token_DotnetCore\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\ProjectKantor\Token_V5_SVN\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\ProjectKantor\IMSV5_NEW_SVN\Token\Master\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_DotnetCore\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_Eport\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_Ecas\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.deps.json
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\rizky\V5\ePROC\TokenAPI\TokenEproc\DataAccessLayer\obj\Release\netcoreapp2.1\DataAccessLayer.pdb

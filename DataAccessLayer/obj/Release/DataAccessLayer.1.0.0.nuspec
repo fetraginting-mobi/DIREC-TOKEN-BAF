@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DataAccessLayer</id>
+    <version>1.0.0</version>
+    <authors>DataAccessLayer</authors>
+    <owners>DataAccessLayer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="System.Data.SqlClient" version="4.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Project_kantor\_v5\DataAccessLayer\bin\Release\netcoreapp2.1\DataAccessLayer.dll" target="lib\netcoreapp2.1\DataAccessLayer.dll" />
+  </files>
+</package>

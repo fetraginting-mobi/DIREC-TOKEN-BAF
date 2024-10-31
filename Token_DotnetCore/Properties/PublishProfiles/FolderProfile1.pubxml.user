@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Publish</_PublishTargetUrl>
+    <History>True|2023-02-16T04:07:02.9484018Z;True|2022-08-08T11:36:12.0669739+07:00;True|2022-08-08T11:24:57.3670139+07:00;True|2022-07-21T16:57:50.5509364+07:00;True|2022-07-21T16:07:00.5461038+07:00;True|2022-07-21T15:47:22.3024466+07:00;True|2022-07-21T15:37:38.7233565+07:00;False|2022-07-21T15:35:46.1490927+07:00;True|2022-07-20T17:02:06.8430497+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=192.168.1.232%3b Database=IFINSYS_BAF%3b User ID=sa%3b Password=p%40ssw0rd%3b Connection Timeout=0%3b Persist Security Info=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

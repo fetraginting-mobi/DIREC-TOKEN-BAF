@@ -1,0 +1,312 @@
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\web.config
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\appsettings.Development.json
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\appsettings.json
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.exe
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.deps.json
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.runtimeconfig.json
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.pdb
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\NuGet.Frameworks.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.CodeDom.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ComponentModel.Composition.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ComponentModel.Composition.Registration.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.AttributedModel.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.Convention.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.Hosting.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.Runtime.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.TypedParts.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Data.OleDb.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Data.SqlClient.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.DirectoryServices.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Drawing.Common.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.IO.Packaging.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.IO.Ports.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Management.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Private.ServiceModel.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Reflection.Context.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Security.Permissions.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Http.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Security.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Syndication.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceProcess.ServiceController.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Speech.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Threading.AccessControl.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Web.Services.Description.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\cs\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\de\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\es\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\fr\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\it\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ja\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ko\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pl\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ru\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\tr\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\cs\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\de\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\es\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\fr\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\it\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ja\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ko\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pl\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ru\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\tr\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Speech.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\DataAccessLayer.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\DataAccessLayer.pdb
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.csproj.AssemblyReference.cache
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.AssemblyInfoInputs.cache
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.AssemblyInfo.cs
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.csproj.CoreCompileInputs.cache
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.MvcApplicationPartsAssemblyInfo.cs
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.MvcApplicationPartsAssemblyInfo.cache
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.csproj.CopyComplete
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\refint\Token_Ifinsys.dll
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.pdb
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.genruntimeconfig.cache
+E:\Project Mobitech\Project\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\ref\Token_Ifinsys.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\appsettings.Development.json
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\appsettings.json
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\web.config
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.exe
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.deps.json
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.runtimeconfig.json
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Token_Ifinsys.pdb
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\NuGet.Frameworks.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.CodeDom.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ComponentModel.Composition.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ComponentModel.Composition.Registration.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.AttributedModel.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.Convention.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.Hosting.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.Runtime.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Composition.TypedParts.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Data.OleDb.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Data.SqlClient.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.DirectoryServices.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Drawing.Common.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.IO.Packaging.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.IO.Ports.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Management.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Private.ServiceModel.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Reflection.Context.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Security.Permissions.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Duplex.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Http.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Security.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceModel.Syndication.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.ServiceProcess.ServiceController.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Speech.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Threading.AccessControl.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Web.Services.Description.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\cs\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\de\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\es\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\fr\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\it\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ja\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ko\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pl\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ru\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\tr\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\cs\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\de\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\es\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\fr\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\it\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ja\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ko\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pl\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\pt-BR\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\ru\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\tr\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hans\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\zh-Hant\System.Web.Services.Description.resources.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Speech.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\DataAccessLayer.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\bin\Release\net6.0\DataAccessLayer.pdb
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.csproj.AssemblyReference.cache
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.AssemblyInfoInputs.cache
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.AssemblyInfo.cs
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.csproj.CoreCompileInputs.cache
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.MvcApplicationPartsAssemblyInfo.cs
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.MvcApplicationPartsAssemblyInfo.cache
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.csproj.CopyComplete
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\refint\Token_Ifinsys.dll
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.pdb
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\Token_Ifinsys.genruntimeconfig.cache
+E:\Mobitech\BAF\DiRec\Application\API\TOKEN\Token_DotnetCore\obj\Release\net6.0\ref\Token_Ifinsys.dll
