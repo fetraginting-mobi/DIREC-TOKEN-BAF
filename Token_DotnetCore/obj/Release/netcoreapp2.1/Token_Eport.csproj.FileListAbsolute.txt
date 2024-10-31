@@ -1,0 +1,17 @@
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\Token_Eport.deps.json
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\Token_Eport.runtimeconfig.json
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\Token_Eport.runtimeconfig.dev.json
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\Token_Eport.dll
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\Token_Eport.pdb
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\DataAccessLayer.dll
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\bin\Release\netcoreapp2.1\DataAccessLayer.pdb
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.csprojAssemblyReference.cache
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.csproj.CoreCompileInputs.cache
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.RazorAssemblyInfo.cache
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.RazorAssemblyInfo.cs
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.AssemblyInfoInputs.cache
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.AssemblyInfo.cs
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.RazorTargetAssemblyInfo.cache
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.csproj.CopyComplete
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.dll
+D:\Mobitech\TokenAPI\Token_Eport\Token_DotnetCore\obj\Release\netcoreapp2.1\Token_Eport.pdb
